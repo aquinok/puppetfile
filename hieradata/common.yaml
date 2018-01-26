@@ -9,4 +9,4 @@ ntp::servers:
 motd::content:
   - |
 
-    You're now on a dev box.
+    You're now on a dev box. Updated!
